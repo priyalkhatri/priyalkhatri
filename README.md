@@ -1,5 +1,14 @@
-## Hi there 👋
+## Hi there 👋!  I’m Priyal Khatri, a software developer who loves crafting sleek UIs, immersive 3D experiences, and blazing-fast web apps. I specialize in:
 
+🚀 React & Next.js – Seamless UIs, smooth interactions
+🎨 Three.js & WebGL – Bringing the web to life in 3D
+⚡ Performance Optimization – Because milliseconds matter
+🏗 Frontend Architecture – Scalable, modular, and future-proof
+
+I’ve built eCommerce platforms, interactive marketing sites, and real-time 3D apps. Currently, I’m crafting next-gen 3D experiences at a stealth startup in the AEC domain.
+
+📌 Portfolio: priyal-portfolio.vercel.app
+💻 GitHub: github.com/priyalkhatri
 <!--
 **priyalkhatri/priyalkhatri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
