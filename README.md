@@ -1,25 +1,45 @@
-## Hi there 👋!  I’m Priyal Khatri, a software developer who loves crafting sleek UIs, immersive 3D experiences, and blazing-fast web apps. I specialize in:
+<h1 align="center">Hi there 👋, I'm Priyal Khatri</h1>
 
-## 🚀 React & Next.js – Seamless UIs, smooth interactions
-## 🎨 Three.js & WebGL – Bringing the web to life in 3D
-## ⚡ Performance Optimization – Because milliseconds matter
-## 🏗 Frontend Architecture – Scalable, modular, and future-proof
+<!-- 🎥 Embedded video preview -->
+<p align="center">
+  <video width="600" controls autoplay loop muted>
+    <source src="https://github.com/priyalkhatri/priyalkhatri/blob/main/portfolio.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+</p>
 
-## I’ve built eCommerce platforms, interactive marketing sites, and real-time 3D apps. Currently, I’m crafting next-gen 3D experiences at a stealth startup in the AEC domain.
+<h3 align="center">Crafting sleek UIs, immersive 3D experiences, and blazing-fast web apps</h3>
 
-## 📌 Portfolio: priyal-portfolio.vercel.app
-## 💻 GitHub: github.com/priyalkhatri
-<!--
-**priyalkhatri/priyalkhatri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 👩‍💻 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a passionate **Software Developer** with a knack for creating interactive, high-performance frontend applications. My work blends creativity with code, turning ideas into elegant user experiences.
+
+---
+
+### 🚀 Tech Stack
+
+- **React & Next.js** – Seamless UIs and smooth interactions  
+- **Three.js & WebGL** – Bringing the web to life in 3D  
+- **Performance Optimization** – Because milliseconds matter  
+- **Frontend Architecture** – Scalable, modular & future-proof  
+
+---
+
+### 🛠️ What I’ve Built
+
+- 🛍 **eCommerce platforms**  
+- 🎯 **Interactive marketing websites**  
+- 🌐 **Real-time 3D applications**  
+
+Currently building next-gen **3D web experiences** at a stealth startup in the **AEC** domain.
+
+---
+
+### 📫 Let’s Connect
+
+- 🌐 [Portfolio](https://priyal-portfolio.vercel.app)  
+- 💻 [GitHub](https://github.com/priyalkhatri)
+
+---
