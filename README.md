@@ -8,38 +8,50 @@
   </video>
 </p>
 
-<h3 align="center">Crafting sleek UIs, immersive 3D experiences, and blazing-fast web apps</h3>
+<h3 align="center">Building blazing-fast web apps and immersive 3D experiences with clean, scalable code</h3>
 
 ---
 
 ### 👩‍💻 About Me
 
-I'm a passionate **Software Developer** with a knack for creating interactive, high-performance frontend applications. My work blends creativity with code, turning ideas into elegant user experiences.
+I'm a **Full-Stack Developer** with a frontend focus, crafting high-performance, real-time applications with modern web technologies. I love bridging beautiful UI with powerful backend systems, and bringing ideas to life through code.
+
+Currently building cutting-edge **3D web experiences** at a stealth startup in the **AEC domain**.
 
 ---
 
 ### 🚀 Tech Stack
 
-- **React & Next.js** – Seamless UIs and smooth interactions  
-- **Three.js & WebGL** – Bringing the web to life in 3D  
-- **Performance Optimization** – Because milliseconds matter  
-- **Frontend Architecture** – Scalable, modular & future-proof  
+- **Frontend:** React.js, Next.js, TypeScript, Redux, Zustand, Three.js, GSAP  
+- **Backend:** Python, FastAPI, REST/GraphQL APIs, gRPC, WebSockets  
+- **Databases:** PostgreSQL, MongoDB, DynamoDB, Redis  
+- **DevOps & Tools:** Docker, AWS (Lambda, S3), CI/CD, Git, Jest, Pytest  
 
 ---
 
-### 🛠️ What I’ve Built
+### 🛠️ Projects
 
-- 🛍 **eCommerce platforms**  
-- 🎯 **Interactive marketing websites**  
-- 🌐 **Real-time 3D applications**  
+- 🔁 **[Human-in-the-Loop AI System](https://github.com/priyalkhatri/FrontDeskGitHub)**  
+  Engineered a serverless backend with FastAPI + DynamoDB to reduce incident resolution time by **65%** and scaled traffic handling by **20×** with AI-driven retraining.
 
-Currently building next-gen **3D web experiences** at a stealth startup in the **AEC** domain.
+- 🧱 **[3D Model Viewer](https://hedral.vercel.app/)**  
+  Interactive viewer built with Three.js allowing users to customize and manipulate 3D models in real time, achieving **60+ FPS** rendering performance.
+
+- 🛒 **Ecommerce & Marketing Platforms**  
+  Developed responsive, performance-optimized UIs for diverse clients using React, TypeScript, and modern architecture patterns.
+
+---
+
+### 📚 Certifications
+
+- ✅ **Frontend System Design**: Security, caching, testing, REST/GraphQL/gRPC, accessibility  
+- ✅ **Three.js & WebGL Mastery**: From shaders to React Three Fiber
 
 ---
 
 ### 📫 Let’s Connect
 
-- 🌐 [Portfolio](https://priyal-portfolio.vercel.app)  
-- 💻 [GitHub](https://github.com/priyalkhatri)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/priyal-khatri/)  
+- 📧 priyalkhatri18@gmail.com
 
 ---
