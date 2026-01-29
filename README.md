@@ -1,57 +1,50 @@
-<h1 align="center">Hi there 👋, I'm Priyal Khatri</h1>
+<h1 align="center">Hi 👋 I'm Priyal Khatri</h1>
 
-<!-- 🎥 Embedded video preview -->
+<h3 align="center">
+Senior Full-Stack Developer 
+</h3>
+
 <p align="center">
-  <video width="600" controls autoplay loop muted>
-    <source src="https://github.com/priyalkhatri/priyalkhatri/blob/main/portfolio.mp4" type="video/mp4">
-    Your browser does not support the video tag.
-  </video>
+I build fast, scalable web systems and immersive 3D experiences.
 </p>
 
-<h3 align="center">Building blazing-fast web apps and immersive 3D experiences with clean, scalable code</h3>
+---
+
+### 👨‍💻 About
+
+Senior Software Developer with a backend-first mindset.  
+I enjoy system design, performance optimization, real-time apps, and shipping things that scale.
+
+Currently building large-scale platforms and 3D web products.
 
 ---
 
-### 👩‍💻 About Me
+### ⚙️ Tech I Work With
 
-I'm a **Full-Stack Developer** with a frontend focus, crafting high-performance, real-time applications with modern web technologies. I love bridging beautiful UI with powerful backend systems, and bringing ideas to life through code.
+**Languages**  
+JavaScript · TypeScript · Python · SQL
 
-Currently building cutting-edge **3D web experiences** at a stealth startup in the **AEC domain**.
+**Backend**  
+Node.js · NestJS · Express · FastAPI · REST · GraphQL · WebSockets
 
----
+**Frontend**  
+React · React Three Fiber · Three.js · Redux · Material UI
 
-### 🚀 Tech Stack
-
-- **Frontend:** React.js, Next.js, TypeScript, Redux, Zustand, Three.js, GSAP  
-- **Backend:** Python, FastAPI, REST/GraphQL APIs, gRPC, WebSockets  
-- **Databases:** PostgreSQL, MongoDB, DynamoDB, Redis  
-- **DevOps & Tools:** Docker, AWS (Lambda, S3), CI/CD, Git, Jest, Pytest  
-
----
-
-### 🛠️ Projects
-
-- 🔁 **[Human-in-the-Loop AI System](https://github.com/priyalkhatri/FrontDeskGitHub)**  
-  Engineered a serverless backend with FastAPI + DynamoDB to reduce incident resolution time by **65%** and scaled traffic handling by **20×** with AI-driven retraining.
-
-- 🧱 **[3D Model Viewer](https://hedral.vercel.app/)**  
-  Interactive viewer built with Three.js allowing users to customize and manipulate 3D models in real time, achieving **60+ FPS** rendering performance.
-
-- 🛒 **Ecommerce & Marketing Platforms**  
-  Developed responsive, performance-optimized UIs for diverse clients using React, TypeScript, and modern architecture patterns.
+**Data & Infra**  
+PostgreSQL · MongoDB · DynamoDB · Redis  
+AWS · Docker · CI/CD
 
 ---
 
-### 📚 Certifications
+### 🧱 Things I’ve Built
 
-- ✅ **Frontend System Design**: Security, caching, testing, REST/GraphQL/gRPC, accessibility  
-- ✅ **Three.js & WebGL Mastery**: From shaders to React Three Fiber
+- **Human-in-the-Loop AI system** — serverless backend, real-time workflows  
+- **3D virtual tours & model viewers** — smooth 60+ FPS, large scenes  
+- **Production web apps** — scalable APIs + performance-focused UIs
 
 ---
 
-### 📫 Let’s Connect
+### 🌍 Find Me
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/priyal-khatri/)  
+- 🔗 LinkedIn: https://www.linkedin.com/in/priyal-khatri/
 - 📧 priyalkhatri18@gmail.com
-
----
